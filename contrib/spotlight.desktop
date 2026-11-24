@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Spotlight
+GenericName=Real-time Spotlight
+Comment=Dim the screen except a circle around the cursor
+Exec=spotlight-toggle
+Icon=zoom-in
+Terminal=false
+Categories=Graphics;
