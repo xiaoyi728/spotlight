@@ -6,8 +6,6 @@ Click-through, grabs no keys, ~3 MB RAM.
 实时聚光灯（X11 原生）：整屏压暗，鼠标周围保留一个边缘柔和的圆形亮区，实时跟随。
 窗口点击穿透、不抓任何键盘按键，屏幕共享时观众也能看到。
 
-![screenshot](screenshot.png)
-
 ## 用法
 
     spotlight [--dim 0.55] [--radius 160] [--soft 0.5] [--debug]
